@@ -1,0 +1,12 @@
+2 1
+< T1 T2 T3 > A
+2
+< > B < T1 T2 >
+< U > B < T3 U >
+
+< T1 T2 > B
+1
+< > A < T1 T1 T1 >
+
+B < string double >
+A < int long string >
